@@ -3,6 +3,7 @@ output: .retype
 favicon: /assets/branding/logo.png
 meta:
   title: " | Sapphire Docs"
+  image: /assets/branding/banner-discord.png
 url: https://writtenmaterial.github.io/sapphire/
 branding:
   logo: /assets/branding/logo.png
