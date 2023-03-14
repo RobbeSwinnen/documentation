@@ -3,7 +3,7 @@ output: .retype
 favicon: /assets/branding/logo.png
 meta:
   title: " | Sapphire Docs"
-url: # Add your website address here
+url: https://writtenmaterial.github.io/sapphire/
 branding:
   logo: /assets/branding/logo.png
   label: v4.2.1
