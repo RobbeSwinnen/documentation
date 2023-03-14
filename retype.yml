@@ -1,0 +1,20 @@
+input: .
+output: .retype
+favicon: /assets/branding/logo.png
+meta:
+  title: " | Sapphire Docs"
+url: # Add your website address here
+branding:
+  logo: /assets/branding/logo.png
+  label: v4.2.1
+links:
+- text: Home
+  link: https://sapph.xyz/
+- text: Dashboard
+  link: https://dashboard.sapph.xyz/
+- text: Custom Branding
+  link: https://sapph.xyz/custom-branding
+- text: Support
+  link: https://discord.com/invite/RrHJYrh4Mm
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
