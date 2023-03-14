@@ -41,7 +41,7 @@ So, whether you're a social media enthusiast or a casual user, the Social Media 
 
 ---
 
-:icon-sign-in: — Welcome to Sapphire's Join Roles feature! This helpful tool allows you to automatically assign roles to newly joined members within your server, making the onboarding process a breeze.
+:icon-sign-in: — Welcome to Sapphire's Join Roles module! This helpful tool allows you to automatically assign roles to newly joined members within your server, making the onboarding process a breeze.
 
 By utilizing the Join Roles feature, you can easily allocate specific roles to new members without having to manually assign them. This saves you time and effort while ensuring that your new members are quickly integrated into your community with the appropriate roles.
 
@@ -51,7 +51,7 @@ Overall, Sapphire's Join Roles feature streamlines the onboarding process for ne
 
 ---
 
-:icon-smiley: — Welcome to the Reaction Roles feature! This handy tool allows you to easily assign roles to users in your community through message reactions.
+:icon-smiley: — Welcome to the Reaction Roles module! This handy tool allows you to easily assign roles to users in your community through message reactions.
 
 With Reaction Roles, you can streamline the process of allocating roles by letting users assign themselves to specific roles by simply reacting to a message. This can be especially useful for larger communities where manual role assignments can become time-consuming and cumbersome.
 
@@ -67,7 +67,7 @@ So, whether you're looking to greet new members with a warm message, or send a f
 
 ---
 
-:icon-log: — Welcome to the Logging section of our documentation! Here, we'll introduce you to the powerful logging functionality that allows you to keep track of all the important events taking place on your server.
+:icon-log: — Welcome to the Logging module! Here, we'll introduce you to the powerful logging functionality that allows you to keep track of all the important events taking place on your server.
 
 Logging is a great way to keep a record of all the user modifications, server alterations, and moderation activities that occur on your server. With logging, you'll be able to easily troubleshoot issues, identify and prevent potential security breaches, and analyze trends in server activity.
 
@@ -85,7 +85,7 @@ If all of these features aren't enough, Sapphire also offers the ability to crea
 
 ---
 
-:icon-diff-added: — Welcome to components section! Develop unique and customized buttons and select menus that can be seamlessly added to your messages.
+:icon-diff-added: — Welcome to components module! Develop unique and customized buttons and select menus that can be seamlessly added to your messages.
 
 The Components feature allows you to tailor your messages to suit your needs. With the easy-to-use tools, you can specify actions to be triggered upon activation of each button or select menu. This way, your users can interact with your messages in a more intuitive way, improving their overall experience.
 
